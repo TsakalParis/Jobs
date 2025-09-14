@@ -13,4 +13,4 @@
 * Feature engineering and targeted encoding
 * Built a predictive model to understand factors that influence buying behaviour.
 
-3) BCGx
+3) BCG X
