@@ -7,6 +7,7 @@
 * Leveraged acquired data analytics and insights from previous tasks to create comprehensive reports for the Category Manager, facilitating informed strategic decisions and enhancing commercial applications.
 
 2) British Airways 
+
 *Completed a simulation focussing on how data science is a critical component of British Airways' success.
 *Scraped and analysed customer review data to uncover findings.
 *Feature engineering and targeted encoding
