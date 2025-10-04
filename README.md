@@ -22,3 +22,13 @@
 * Completed the engineering and optimization of a random forest model, achieving an 50% recall rate in predicting customer churn.
 
 * Completed a concise executive summary for the team, delivering actionable insights for informed decision-making based on the analysis.
+
+4) Lloyds Banking Group
+
+* Completed a job simulation involving customer churn prediction for the Data Science & Analytics team at Lloyds Banking Group.
+  
+* Developed and implemented a predictive model using balanced random forest, CatBoost and XGBoost.
+
+* Conducted advanced data preprocessing, including handling missing values, encoding categorical variables, and feature scaling, utilising Python libraries such as pandas, scikit-learn, and matplotlib.
+
+* Performed comprehensive model evaluation and tuning, optimising hyperparameters with Bayesian optimization (Optuna) and applied feature importance analysis to derive actionable business insights.
